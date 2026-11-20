@@ -1,12 +1,12 @@
 {
  "versions": [
   {
-   "v": "1.0.0",
+   "v": "1.0.1",
    "hw": "A",
-   "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.0.bin",
-   "sha256": "fb0f3b0862037f8eb1b980584ff703730e062b61cd189e14c86c418fc2e7c4f9",
-   "size": 1416928,
-   "notes": "error fix."
+   "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.1.bin",
+   "sha256": "78a6a7b58e3322985be3c0c0ac11133ce8126ffb74d0352ecd37ec435d9cc002",
+   "size": 1416592,
+   "notes": "delay added on setup."
   }
  ]
 }

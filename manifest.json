@@ -1,8 +1,16 @@
 {
   "latest": {
-    "A": "1.0.2"
+    "A": "1.0.3"
   },
   "versions": [
+    {
+      "v": "1.0.3",
+      "hw": "A",
+      "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.3.bin",
+      "sha256": "6c7a6d420fecd8547172d8399d9a729e4c7a2ab96fb1411cffbd01217cef8a85",
+      "size": 1436272,
+      "notes": "Web serial feature added."
+    },
     {
       "v": "1.0.2",
       "hw": "A",

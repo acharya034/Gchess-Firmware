@@ -1,12 +1,12 @@
 {
  "versions": [
   {
-   "v": "1.0.2",
+   "v": "1.0.3",
    "hw": "A",
-   "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.2.bin",
-   "sha256": "b557ecf5f1663b9b2d9f331e6005a1909be7bd02c42f1f3a11a943479535c5a8",
-   "size": 1416992,
-   "notes": "charging logic added."
+   "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.3.bin",
+   "sha256": "6c7a6d420fecd8547172d8399d9a729e4c7a2ab96fb1411cffbd01217cef8a85",
+   "size": 1436272,
+   "notes": "Web serial feature added."
   }
  ]
 }

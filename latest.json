@@ -1,12 +1,12 @@
 {
  "versions": [
   {
-   "v": "1.0.4",
+   "v": "1.0.5",
    "hw": "A",
-   "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.4.bin",
-   "sha256": "f8388503b84dd167e4c47c198634088bdae591d0990d6152a3e242c816195080",
-   "size": 1463600,
-   "notes": "webserial update; now ipaddress print on about page and webs"
+   "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.5.bin",
+   "sha256": "da00e3ecbbc350adf9d74157b4fa1a52550453eb7b8f81e0dc3a550de7def1d9",
+   "size": 1463872,
+   "notes": "OTA fix: free web console + mDNS RAM during update check"
   }
  ]
 }

@@ -1,12 +1,12 @@
 {
  "versions": [
   {
-   "v": "1.0.3",
+   "v": "1.0.4",
    "hw": "A",
-   "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.3.bin",
-   "sha256": "6c7a6d420fecd8547172d8399d9a729e4c7a2ab96fb1411cffbd01217cef8a85",
-   "size": 1436272,
-   "notes": "Web serial feature added."
+   "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.4.bin",
+   "sha256": "f8388503b84dd167e4c47c198634088bdae591d0990d6152a3e242c816195080",
+   "size": 1463600,
+   "notes": "webserial update; now ipaddress print on about page and webs"
   }
  ]
 }

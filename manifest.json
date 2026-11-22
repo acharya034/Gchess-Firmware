@@ -1,8 +1,16 @@
 {
   "latest": {
-    "A": "1.0.3"
+    "A": "1.0.4"
   },
   "versions": [
+    {
+      "v": "1.0.4",
+      "hw": "A",
+      "url": "https://raw.githubusercontent.com/acharya034/Gchess-firmware/main/firmware/v1.0/gchess_1.0.4.bin",
+      "sha256": "f8388503b84dd167e4c47c198634088bdae591d0990d6152a3e242c816195080",
+      "size": 1463600,
+      "notes": "webserial update; now ipaddress print on about page and webs"
+    },
     {
       "v": "1.0.3",
       "hw": "A",
